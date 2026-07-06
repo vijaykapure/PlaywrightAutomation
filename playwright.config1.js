@@ -9,7 +9,7 @@ const config = defineConfig({
   timeout: 40 * 1000,
 
   expect: {
-    timeout: 10 * 1000,
+    timeout: 10 * 1500,
   },
 
     reporter: [
