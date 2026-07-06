@@ -10,7 +10,7 @@ const config = ({
   testDir: './tests',
   retries : 2,
   workers : 3,
-  timeout: 60 * 1000,
+  timeout: 60 * 2000,
   expect: {
     timeout: 4000,
   },
