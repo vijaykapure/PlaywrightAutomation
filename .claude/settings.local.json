@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"c:\\\\Users\\\\vijay.kapure\\\\Desktop\\\\POM\\\\Pages\")",
+      "Bash(dir \"c:\\\\Users\\\\vijay.kapure\\\\Desktop\\\\POM\" /b)"
+    ]
+  }
+}

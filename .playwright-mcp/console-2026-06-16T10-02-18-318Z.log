@@ -1,0 +1,40 @@
+[     776ms] [WARNING] Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading @ https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyBhNhkYQgITJVJBRZLo_vxwXwcY6rGx01A:2459
+[    1023ms] TypeError: angular.module(...).info is not a function
+    at https://preprod.agrigates.com/admin-ui/bower_components/angular-route/angular-route.js:58:3
+    at https://preprod.agrigates.com/admin-ui/bower_components/angular-route/angular-route.js:1224:3
+[    1747ms] TypeError: l.module(...).info is not a function
+    at https://preprod.agrigates.com/admin-ui/bower_components/angular-messages/angular-messages.min.js:7:359
+    at https://preprod.agrigates.com/admin-ui/bower_components/angular-messages/angular-messages.min.js:11:301
+[    2348ms] [WARNING] Element with name "gmp-internal-loading-text" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyBhNhkYQgITJVJBRZLo_vxwXwcY6rGx01A:228
+[    2348ms] [WARNING] Element with name "gmp-internal-request-error-text" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyBhNhkYQgITJVJBRZLo_vxwXwcY6rGx01A:228
+[    2349ms] [WARNING] Element with name "gmp-internal-back-button" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyBhNhkYQgITJVJBRZLo_vxwXwcY6rGx01A:228
+[    2350ms] [WARNING] Element with name "gmp-internal-dialog" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyBhNhkYQgITJVJBRZLo_vxwXwcY6rGx01A:228
+[    2350ms] [WARNING] Element with name "gmp-internal-disclosure" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyBhNhkYQgITJVJBRZLo_vxwXwcY6rGx01A:228
+[    2350ms] [WARNING] Element with name "gmp-internal-disclosure-section" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyBhNhkYQgITJVJBRZLo_vxwXwcY6rGx01A:228
+[    2350ms] [WARNING] Element with name "gmp-internal-attribution" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyBhNhkYQgITJVJBRZLo_vxwXwcY6rGx01A:228
+[    2351ms] [WARNING] Element with name "gmp-internal-element-support-verification" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyBhNhkYQgITJVJBRZLo_vxwXwcY6rGx01A:228
+[    2352ms] [ERROR] You have included the Google Maps JavaScript API multiple times on this page. This may cause unexpected errors. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyBhNhkYQgITJVJBRZLo_vxwXwcY6rGx01A:330
+[    2352ms] [WARNING] Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading @ https://maps.googleapis.com/maps/api/js?key=AIzaSyBhNhkYQgITJVJBRZLo_vxwXwcY6rGx01A:323
+[    2357ms] [WARNING] Element with name "gmp-map" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyBhNhkYQgITJVJBRZLo_vxwXwcY6rGx01A:228
+[    2714ms] [WARNING] 
+It looks like you're using the development build of the Firebase JS SDK.
+When deploying Firebase apps to production, it is advisable to only import
+the individual SDK components you intend to use.
+
+For the CDN builds, these are available in the following manner
+(replace <PACKAGE> with the name of a component - i.e. auth, database, etc):
+
+https://www.gstatic.com/firebasejs/5.0.0/firebase-<PACKAGE>.js
+ @ https://www.gstatic.com/firebasejs/5.4.1/firebase.js:0
+[    2790ms] [ERROR] TypeError: Cannot read properties of undefined (reading 'fk_franchise_id')
+    at https://preprod.agrigates.com/admin-ui/app/app.js:109:75
+    at r.$broadcast (https://preprod.agrigates.com/admin-ui/bower_components/angular/angular.min.js:136:162)
+    at y.transitionTo (https://preprod.agrigates.com/admin-ui/bower_components/angular-ui-router/release/angular-ui-router.min.js:7:17776)
+    at Array.<anonymous> (https://preprod.agrigates.com/admin-ui/bower_components/angular-ui-router/release/angular-ui-router.min.js:7:14266)
+    at Object.e [as invoke] (https://preprod.agrigates.com/admin-ui/bower_components/angular/angular.min.js:39:394)
+    at g (https://preprod.agrigates.com/admin-ui/bower_components/angular-ui-router/release/angular-ui-router.min.js:7:10915)
+    at https://preprod.agrigates.com/admin-ui/bower_components/angular-ui-router/release/angular-ui-router.min.js:7:12501
+    at b (https://preprod.agrigates.com/admin-ui/bower_components/angular-ui-router/release/angular-ui-router.min.js:7:11078)
+    at m (https://preprod.agrigates.com/admin-ui/bower_components/angular-ui-router/release/angular-ui-router.min.js:7:11210)
+    at r.$broadcast (https://preprod.agrigates.com/admin-ui/bower_components/angular/angular.min.js:136:162) @ https://preprod.agrigates.com/admin-ui/bower_components/angular/angular.min.js:106
+[    7411ms] [WARNING] Element with name "gmp-pin" already defined. @ https://maps.googleapis.com/maps/api/js?key=AIzaSyBhNhkYQgITJVJBRZLo_vxwXwcY6rGx01A:228

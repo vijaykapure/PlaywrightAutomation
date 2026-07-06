@@ -1,0 +1,207 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - navigation [ref=e5]:
+      - generic [ref=e6]:
+        - link [ref=e7] [cursor=pointer]:
+          - /url: "#/login"
+        - text: 
+        - list [ref=e9]:
+          - listitem [ref=e10]:
+            - link "3PL Services" [ref=e11] [cursor=pointer]:
+              - /url: "#3pl"
+          - listitem [ref=e12]:
+            - generic [ref=e13] [cursor=pointer]: Contact Us |
+          - listitem [ref=e14]:
+            - generic [ref=e16]:
+              - generic [ref=e18]: "+91"
+              - textbox "Mobile No." [ref=e19]
+          - listitem [ref=e20]:
+            - generic [ref=e22]:
+              - textbox "Password" [ref=e23]
+              - button "LOGIN" [ref=e24]
+    - heading "Opening a single gate for every Integrated Agri Chain Solution" [level=2] [ref=e31]:
+      - text: Opening a single gate for every Integrated
+      - text: Agri Chain Solution
+  - generic [ref=e37]:
+    - heading "Reap the benefits of a transparent Portal" [level=2] [ref=e38]: Reap the benefits of a transparent Portal
+    - paragraph [ref=e39]: Agrigate is tech-enabled platform which tranforms Staragri's (owned and franchised) warehouses into smart warehouses. With Agrigate, warehouses across the country would turn into a standardised network of licensed warehouses all connected to the same software, that is strengthened on a backbone of Block-chain technology.
+    - paragraph [ref=e40]: The network connects all stakeholders on a single platform which increases tranparency of data and transactions, apart from enabling real-time transactions and dealings. There is a superior risk management framework in place that renders the system as safe and effective.
+  - generic [ref=e42]:
+    - generic [ref=e43]:
+      - heading "Agrigate Offerings" [level=2] [ref=e44]
+      - paragraph [ref=e45]: A desire to help and empower the next generation Agri community
+    - generic [ref=e46]:
+      - generic [ref=e48]:
+        - generic [ref=e50]: 
+        - generic [ref=e51]:
+          - heading "Farmers" [level=3] [ref=e52]:
+            - link "Farmers" [ref=e53] [cursor=pointer]:
+              - /url: "#"
+          - list [ref=e54]:
+            - listitem [ref=e55]: ">> Warehousing Services"
+            - listitem [ref=e56]: ">> Loan against Collateral"
+            - listitem [ref=e57]: ">> Testing of Produce"
+            - listitem [ref=e58]: ">> Buy & Sell stocks on Agribazaar Platform"
+      - generic [ref=e60]:
+        - generic [ref=e62]: 
+        - generic [ref=e63]:
+          - heading "Banks" [level=3] [ref=e64]:
+            - link "Banks" [ref=e65] [cursor=pointer]:
+              - /url: "#"
+          - list [ref=e66]:
+            - listitem [ref=e67]: ">> Online call center support"
+            - listitem [ref=e68]: ">> E-Platform for Disposal of Stressed Stock"
+            - listitem [ref=e69]: ">> Customized alerts for prompt action on any ambiguity"
+            - listitem [ref=e70]: ">> Active Dashboard to know current status"
+    - generic [ref=e71]:
+      - generic [ref=e73]:
+        - generic [ref=e75]: 
+        - generic [ref=e76]:
+          - heading "Franchise Owned - Franchise Operated" [level=3] [ref=e77]:
+            - link "Franchise Owned - Franchise Operated" [ref=e78] [cursor=pointer]:
+              - /url: "#"
+          - list [ref=e79]:
+            - listitem [ref=e80]: ">> Transparent transactions"
+            - listitem [ref=e81]: ">> Superior risk management framework"
+            - listitem [ref=e82]: ">> All stakeholders connected on single portal"
+            - listitem [ref=e83]: ">> Standardised network of pan India licensed warehouses"
+      - generic [ref=e85]:
+        - generic [ref=e87]: 
+        - generic [ref=e88]:
+          - heading "Warehouse Owners" [level=3] [ref=e89]:
+            - link "Warehouse Owners" [ref=e90] [cursor=pointer]:
+              - /url: "#"
+          - list [ref=e91]:
+            - listitem [ref=e92]: ">> Standardised and transparent process"
+            - listitem [ref=e93]: ">> Leverage from rich experience & customer base of StarAgri"
+            - listitem [ref=e94]: ">> Accreditation of Warehouse with WDRA"
+            - listitem [ref=e95]: ">> Pan India visibility of warehouses"
+  - generic [ref=e100]:
+    - generic [ref=e102]:
+      - generic [ref=e104]: 
+      - generic [ref=e105]:
+        - heading "44" [level=3] [ref=e106]
+        - paragraph [ref=e107]: Branches
+    - generic [ref=e109]:
+      - generic [ref=e111]: 
+      - heading "16 States" [level=3] [ref=e113]:
+        - text: "16"
+        - paragraph [ref=e114]: States
+      - heading "900 Locations" [level=3] [ref=e116]:
+        - text: "900"
+        - paragraph [ref=e117]: Locations
+    - generic [ref=e119]:
+      - generic [ref=e121]: 
+      - generic [ref=e122]:
+        - heading "3000+" [level=3] [ref=e123]
+        - paragraph [ref=e124]: Warehouses
+    - generic [ref=e126]:
+      - generic [ref=e128]: 
+      - generic [ref=e129]:
+        - heading "2 Million" [level=3] [ref=e130]
+        - paragraph [ref=e131]: MT Agri Stocks
+  - generic [ref=e133]:
+    - heading "Services to Agrigate stakeholders" [level=2] [ref=e135]
+    - generic [ref=e136]:
+      - generic [ref=e138]:
+        - generic [ref=e140]: 
+        - generic [ref=e141]:
+          - heading "Borrower" [level=3] [ref=e142]:
+            - link "Borrower" [ref=e143] [cursor=pointer]:
+              - /url: "#"
+          - list [ref=e144]:
+            - listitem [ref=e145]: Realtime view of stock status
+            - listitem [ref=e146]: Seamless financing
+            - listitem [ref=e147]: Seamless sell through e-platform
+            - listitem [ref=e148]: Consolidated view of all stocks
+      - generic [ref=e150]:
+        - generic [ref=e152]: 
+        - generic [ref=e153]:
+          - heading "Bank" [level=3] [ref=e154]:
+            - link "Bank" [ref=e155] [cursor=pointer]:
+              - /url: "#"
+          - list [ref=e156]:
+            - listitem [ref=e157]: Active Dashboard
+            - listitem [ref=e158]: Functionalities for reducing TAT
+            - listitem [ref=e159]: Customized alerts
+            - listitem [ref=e160]: Integrated online platform for Disposal
+      - generic [ref=e162]:
+        - generic [ref=e164]: 
+        - generic [ref=e165]:
+          - heading "Warehouse Owner" [level=3] [ref=e166]:
+            - link "Warehouse Owner" [ref=e167] [cursor=pointer]:
+              - /url: "#"
+          - list [ref=e168]:
+            - listitem [ref=e169]: Online access on platform
+            - listitem [ref=e170]: Online Inventory management software to connect with repository
+            - listitem [ref=e171]: Pan India exposure of warehousing space
+      - generic [ref=e173]:
+        - generic [ref=e175]: 
+        - generic [ref=e176]:
+          - heading "Agribazaar" [level=3] [ref=e177]:
+            - link "Agribazaar" [ref=e178] [cursor=pointer]:
+              - /url: "#"
+          - list [ref=e179]:
+            - listitem [ref=e180]: Physical handling of stock
+            - listitem [ref=e181]: Seamless buying/selling of stock
+            - listitem [ref=e182]: Secure hassle - free payment handling
+      - generic [ref=e184]:
+        - generic [ref=e186]: 
+        - generic [ref=e187]:
+          - heading "Repository" [level=3] [ref=e188]:
+            - link "Repository" [ref=e189] [cursor=pointer]:
+              - /url: "#"
+          - list [ref=e190]:
+            - listitem [ref=e191]: Connect with warehouse for generation of eNWR
+            - listitem [ref=e192]: Expland Network of accredited warehouses
+      - generic [ref=e194]:
+        - generic [ref=e196]: 
+        - generic [ref=e197]:
+          - heading "3rd Party Logistic Services" [level=3] [ref=e198]:
+            - link "3rd Party Logistic Services" [ref=e199] [cursor=pointer]:
+              - /url: "#"
+          - list [ref=e200]:
+            - listitem [ref=e201]: Allow the clients to outsource operational logistics
+            - listitem [ref=e202]: Safe transportation and delivery of goods
+  - generic [ref=e205]:
+    - generic [ref=e209]:
+      - textbox "Name" [ref=e212]
+      - textbox "Email" [ref=e215]
+      - textbox "Subject" [ref=e218]
+      - generic [ref=e219]:
+        - textbox "Your Message" [ref=e221]
+        - button "Send Message" [ref=e223] [cursor=pointer]
+    - generic [ref=e226]:
+      - heading "Below are our coordinates:" [level=2] [ref=e227]
+      - generic [ref=e228]:
+        - generic [ref=e230]: 
+        - paragraph [ref=e231]: 801, Sumer Plaza, Marol Maroshi Road, Beside KP Aurum, Sankasth Pada Welfare Society, Marol, Andheri (East), Mumbai - 400 059
+      - heading "Contact Us" [level=2] [ref=e232]
+      - generic [ref=e233]:
+        - generic [ref=e235]: 
+        - paragraph [ref=e236]:
+          - 'link "Email: info@agrigates.com" [ref=e237] [cursor=pointer]':
+            - /url: "#"
+      - generic [ref=e238]:
+        - generic [ref=e240]: 
+        - paragraph [ref=e241]:
+          - 'link "Phone: +91 9090 397 777" [ref=e242] [cursor=pointer]':
+            - /url: "#"
+  - generic [ref=e245]:
+    - generic [ref=e249]:
+      - link "" [ref=e250] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e251]: 
+      - link "" [ref=e252] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e253]: 
+      - link "" [ref=e254] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e255]: 
+      - link "" [ref=e256] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e257]: 
+    - paragraph [ref=e259]: Copyright © 2019 - 2023 Agrigate. All rights reserved.
+  - link "" [ref=e260] [cursor=pointer]:
+    - /url: "#"
+    - generic [ref=e261]: 
